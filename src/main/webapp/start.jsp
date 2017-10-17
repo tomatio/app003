@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<p align="center">Страница логин</p>
+<p align="center">Страница логин </p>
 </body>
 </html>
