@@ -23,7 +23,6 @@ public class LoginFilter extends BaseFilter {
         }
         else {
             chain.doFilter(req, resp);
-        }
     }
 
 
